@@ -2,6 +2,10 @@
 
 El repositorio contiene el código utilizado en las entradas “[La estrategia martingala](https://www.analyticslane.com/2019/05/22/la-estrategia-martingala/)” y “[Simulador martingala en Matlab con GUIDE](https://www.analyticslane.com/2019/05/27/simulador-martingala-en-matlab-con-guide/)” publicadas en el blog [Analytics Lane](https://www.analyticslane.com/). El proyecto es un simulador en Matlab en el que se comprueban como funcionaria utilizar la estrategia de la martingala en un casino.
 
+## Migración de GUIDE a App Designer
+
+Inicialmente el simulador de Martingala se creo utilizado la herramienta GUIDE. Pero actualmente la herramienta recomendada por Matlab para la creación de aplicaciones graficas es App Designer. Por lo que se ha migrado el simulador utilizando el asistente de migración. Explicándose en el siguiente enlace los pasos utilizados para hacer la [migración de GUIDE a App Designer](https://www.analyticslane.com/2019/06/05/migracion-de-guide-a-app-designer/).
+
 ## Descargo de responsabilidad
 
 Copyright (C) 2019 Daniel Rodríguez Pérez
